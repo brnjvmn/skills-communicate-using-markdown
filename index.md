@@ -11,4 +11,10 @@
 
 
 
+``` java
+String str: "Hello World!";
+```
+
+
+
 I have added new text "Hello" using the 6 different markdown headers, from biggest to smallest.
